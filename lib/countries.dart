@@ -3667,7 +3667,7 @@ const List<Country> countries = [
       "en": "Kosovo",
       "sq": "Kosoves",
     },
-    flag: ":flag-xk:",
+    flag: "🇽🇰",
     code: "XK",
     dialCode: "383",
     minLength: 8,
